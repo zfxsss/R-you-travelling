@@ -1,0 +1,5 @@
+--2016/02/...
+
+--2016/02/20 open mind
+write down some notes for further exploration, ideas now in root dir of CrazyDesign
+check them for better understanding of the project
